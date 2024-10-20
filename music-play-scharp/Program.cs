@@ -48,7 +48,7 @@ void ExibirOpcoesDoMenu()
             Console.WriteLine("Você escolheu a opção " + opcaoEscolhida);
             break;
         case -1:
-            Console.WriteLine("Até em breve :) ");
+            Console.WriteLine("Até em breve, tchau tcahu :) ");
             break;
         default:
             Console.WriteLine("Opção invalida");
